@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632756433 source:c:\users\virgo\documents\semester 3\struktur data\belajar c\mod1_1301204388_if4405\main.cpp
+	<iostream>
+	"hello.h"
+
+1632756327 c:\users\virgo\documents\semester 3\struktur data\belajar c\mod1_1301204388_if4405\hello.h
+	<iostream>
+	<cstdlib>
+
+1632756605 source:c:\users\virgo\documents\semester 3\struktur data\belajar c\mod1_1301204388_if4405\hello.cpp
+	"hello.h"
+
